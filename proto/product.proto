@@ -53,4 +53,3 @@ message DecreaseStockResponse {
   int32 status = 1;
   repeated string error = 2;
 }
-view raw
